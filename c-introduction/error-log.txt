@@ -1,2 +1,4 @@
-Command 'gcc' not found, but can be installed with:
-sudo apt install gcc
+hello_broken.c: In function ‘main’:
+hello_broken.c:4:5: error: expected declaration or statement at end of input
+    4 |     return 0;
+      |     ^~~~~~
