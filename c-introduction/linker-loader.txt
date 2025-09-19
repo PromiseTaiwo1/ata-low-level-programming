@@ -1,0 +1,1 @@
+A linker combines object files and libraries into a single executable by resolving references between them. A loader takes the executable and loads it into memory, preparing it for execution by setting up memory addresses and starting the program.
