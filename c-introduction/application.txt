@@ -1,0 +1,5 @@
+1. linux kernel
+2. git 
+3. database system like mysql
+4. embedded system fireware
+5. windows operating system components
