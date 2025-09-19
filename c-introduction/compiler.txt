@@ -1,0 +1,1 @@
+A compiler translates source code written in a programming language into machine code that a computer can execute. It checks for syntax errors and converts the entire program into an executable file. This allows the program to run independently of the original source code.
