@@ -1,0 +1,19 @@
+Preprocessing:
+    The compiler first handles all #include and #define directives,
+    expanding header files and macros and removing comments. 
+    The result is a clean, expanded source file.
+
+Compiling:
+    The preprocessed code is translated into assembly language
+    specific to the target machine. This step checks syntax and
+    produces a .s assembly file.
+
+Assembling:
+    The assembler converts the assembly file into machine code,
+    creating an object file (.o) that contains binary instructions.
+
+Linking:
+    The linker combines object files and required libraries into
+    a final executable program. It resolves all external function
+    and variable references so the program can run.
+
