@@ -1,3 +1,9 @@
+/**
+ * main - the main function
+ * description: using comments and keywords
+ * return: 0 
+*/
+
 1.  // is used for single-line comments, while /* … */ is used for multi-line comments.  
 2. Keywords are reserved words that have special meaning to the compiler and cannot be used as identifiers.  
 3. Examples of C keywords include int, return, and for.  
