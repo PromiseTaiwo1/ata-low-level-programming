@@ -1,8 +1,8 @@
 /**
  * main - the entry point of the program
  * description: Prints a message about compilation in C.
- * return: Always 0 (success)
- */
+ * return: 0 (success)
+*/
 
 #include <stdio.h>
 
